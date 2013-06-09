@@ -3,7 +3,7 @@ Object = "{19883799-9381-41CA-8342-B4546CA216BF}#1.0#0"; "vistaButton.ocx"
 Begin VB.Form LOGIN 
    BackColor       =   &H00FF0000&
    BorderStyle     =   0  'None
-   Caption         =   "LOGIN"
+   Caption         =   "LOGIN DULU"
    ClientHeight    =   5145
    ClientLeft      =   0
    ClientTop       =   0
